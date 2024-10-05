@@ -14,3 +14,6 @@ sudo chmod -R 750 Examenes-UTN/alumno1
 sudo chmod -R 760 Examenes-UTN/alumno2
 sudo chmod -R 700 Examenes-UTN/alumno3
 sudo chmod -R 775 Examenes-UTN/profesor
+
+whoami > validar.txt
+cat validar.txt
